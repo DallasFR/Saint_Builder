@@ -5,6 +5,7 @@
 Petit builder que j'ai fait qui permet de générer automatiquement une payload fonctionnelle via un fichier bin. 
 
 runner --> Template
+
 Saint_Builder --> Builder
 
 Le stub est basique, un anti-debug basique (IsDebuggerPresent) tout comme l'anti-vm qui est un Sleep suivis d'un GetTickCount.
