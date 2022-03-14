@@ -21,6 +21,8 @@ Si vous voulez des pistes pour améliorer le payload je vous conseille :
 - Ajouter des anti-vm, anti-dbg, anti-vm digne de ce nom (checkpoint à de très bons articles dessus)
 - Revoir l'injection, je crée un thread, on peut faire mieux genre EarlyBird pour executer la payload via APC ou abuser de fonctions windows (http://ropgadget.com/posts/abusing_win_functions.html)
 
+Biensur, c'est à but éducatif toussa toussa, vous connaissez la chanson
+
 # Demo
 
 ![alt text](https://raw.githubusercontent.com/DallasFR/Saint_Builder/main/images/gif_exemple.gif)
